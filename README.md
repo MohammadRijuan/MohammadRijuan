@@ -13,7 +13,7 @@
 
 ## Porfolio
 - 🔗 To reach me out - <a href="rijuan-portfolio.netlify.app">Portfolio<a/> 
-- 🔗 To check my - <a href="https://drive.google.com/file/d/10UCHXgxjD1ye8vq3uUvB3-x0r0OVxd4-/view?usp=sharing">Resume<a/> 
+- 📄 To check my - <a href="https://drive.google.com/file/d/10UCHXgxjD1ye8vq3uUvB3-x0r0OVxd4-/view?usp=sharing">Resume<a/> 
 
 
 
