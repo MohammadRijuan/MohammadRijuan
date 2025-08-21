@@ -1,4 +1,4 @@
-![Black and Yellow Web Developer LinkedIn Banner](https://rijuan-banner.my.canva.site)
+![Black and Yellow Web Developer LinkedIn Banner](https://rijuan-banner.my.canva.site/)
 
 
 
