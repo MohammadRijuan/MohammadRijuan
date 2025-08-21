@@ -1,4 +1,4 @@
-![Black and Yellow Web Developer LinkedIn Banner](https://rijuan-banner.my.canva.site/)
+![BLUE and WHITE Web Developer LinkedIn Banner](https://i.ibb.co.com/dsH1J2NL/Abstract-Technology-Profile-Linked-In-Banner.png)
 
 
 
