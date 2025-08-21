@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=MohammadRijuan&style=flat-square)
 
 ## Porfolio
-- 🔗 Here is my Portfolio (rijuan-portfolio.netlify.app)  
+- 🔗 Here is my Portfolio <a href="rijuan-portfolio.netlify.app">Portfolio<a/> 
 
 
 
