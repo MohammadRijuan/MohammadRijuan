@@ -1,77 +1,206 @@
-![BLUE and WHITE Web Developer LinkedIn Banner](https://i.ibb.co.com/dsH1J2NL/Abstract-Technology-Profile-Linked-In-Banner.png)
-
-
-
-
-<h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+# Hi 👋, I'm Mohammad Rijuan
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B6FF&width=280&lines=Full+Stack+Developer;Django+Developer;React+Developer;Problem+Solver" alt="Typing SVG" />
-  </a>
+  <img src="https://i.ibb.co.com/dsH1J2NL/Abstract-Technology-Profile-Linked-In-Banner.png" alt="Banner" width="100%">
 </div>
 
----
-![](https://komarev.com/ghpvc/?username=MohammadRijuan&style=flat-square)
+<h3 align="center">
+Full Stack Developer | Django Developer | React Developer | WordPress Developer
+</h3>
 
-## Porfolio
-- 🔗 To reach me out - <a href="https://rijuan-portfolio.netlify.app">Portfolio<a/> 
-- 📄 To check my - <a href="https://drive.google.com/file/d/10UCHXgxjD1ye8vq3uUvB3-x0r0OVxd4-/view?usp=sharing">Resume<a/> 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=32B6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Django+%26+DRF+Developer;React+%26+TypeScript+Developer;WordPress+%26+Elementor+Expert;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-
-## 👨‍💻 About Me
-
-- 🔧 Backend Developer with **1+ year of experience**
-- 🔄 Building **secure, scalable APIs** with **Django REST Framework**
-- 👯 Open to collaboration on **open-source projects**
-- 💬 Ask me about **Django, REST APIs and React
-- 📫 Reach me at: **mohammadrijuan2529@gmail.com**
-
----
-
-## 🔹 Tech Stack
-
-| **Languages** | **Frontend** | **Backend** | **Database** |
-|---------------|--------------|-------------|--------------|
-| <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" height="40"/> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" height="40"/> | <img src="https://skillicons.dev/icons?i=django,express,nodejs" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="40"/> |
-
----
-
-## 🔹 Tools I Use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,figma,onrender" height="40"/>
-</p>
-
-
-## 📊 GitHub Stats
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRijuan&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRijuan&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRijuan&theme=react-dark"/>
+  <img src="https://komarev.com/ghpvc/?username=MohammadRijuan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadRijuan&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+🔹 Full Stack Developer passionate about creating modern, scalable web applications.
+
+🔹 Experienced in building secure REST APIs with Django REST Framework.
+
+🔹 Skilled in React, TypeScript, Node.js, WordPress, Elementor and WooCommerce.
+
+🔹 Passionate about solving real-world problems through software.
+
+🔹 Open to freelance, remote and open-source collaborations.
+
+🔹 Continuously learning and improving development skills.
+
+📫 Email: **[mohammadrijuan2529@gmail.com](mailto:mohammadrijuan2529@gmail.com)**
+
+🌐 Portfolio: **https://rijuan-portfolio.netlify.app**
+
+📄 Resume: **https://drive.google.com/file/d/10UCHXgxjD1ye8vq3uUvB3-x0r0OVxd4-/view**
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### CMS & Website Builders
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+* Elementor
+* WooCommerce
+* WordPress Theme Customization
+* Landing Page Design
+* Business Website Development
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
 </p>
 
 ---
 
-## 🌍 Connect With Me  
+# 🎯 Current Focus
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rijuan-a78218342/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadrijuan2529@gmail.com)
+* Learning Advanced TypeScript
+* Building Scalable Full Stack Applications
+* Improving System Design Knowledge
+* Exploring Cloud Technologies
+* Contributing to Open Source Projects
 
+---
 
-<p align="center">🚀 Always learning. Always building.</p>
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MohammadRijuan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRijuan&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRijuan&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Current Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammadRijuan&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRijuan&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadRijuan&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 💼 Featured Skills
+
+✅ Django
+
+✅ Django REST Framework
+
+✅ React.js
+
+✅ TypeScript
+
+✅ Node.js
+
+✅ Express.js
+
+✅ WordPress
+
+✅ Elementor
+
+✅ WooCommerce
+
+✅ PostgreSQL
+
+✅ MySQL
+
+✅ MongoDB
+
+✅ REST API Development
+
+✅ Git & GitHub
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammad-rijuan-a78218342/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammadrijuan2529@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+const developer = {
+  name: "Mohammad Rijuan",
+  role: "Full Stack Developer",
+  backend: ["Django", "DRF", "Node.js"],
+  frontend: ["React", "TypeScript"],
+  cms: ["WordPress", "Elementor"],
+  passion: "Building useful products"
+};
+
+console.log("Always learning. Always building.");
+```
+
+---
+
+<h3 align="center">
+🚀 Always Learning • Always Building • Always Improving
+</h3>
