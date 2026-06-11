@@ -128,14 +128,6 @@ Full Stack Developer | Django Developer | React Developer | WordPress Developer
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadRijuan&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
 # 💼 Featured Skills
 
 ✅ Django
